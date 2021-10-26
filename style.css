@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+#divum {
+background-color: indigo;
+width: 1000px;
+margin: auto;
+height: 300px;
+}
+#divum p {
+font-size: 25px;
+}
+#divdois {
+background-color: coral;
+width: 800px;
+margin: auto;
+height: 200px;
+}
+#divdois p {
+padding: 20px;
+padding-top: 5;
+font-size: 15px;
+}
+
+.ultimop.pfinal {
+font-style: italic;
+}
+.divC  + p{
+  background-color: darksalmon;
+}
